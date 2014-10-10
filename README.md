@@ -10,19 +10,19 @@ Web and app oriented.
 Grids
 -----
 
-### Gridpak : 
-- Guides generator
-- Easy configuration (breakpoints, columns and padding)
-- Exports as png and scss
-- Photoshop 5+
-- [Website](http://gridpak.com)
-
-### Guideguide : 
+### Guideguide
 - Guides generator
 - Easy configuration (breakpoints, columns and padding)
 - Exports as png and scss
 - Photoshop 5+
 - [Website](http://guideguide.me/)
+
+### Gridpak
+- Guides generator
+- Easy configuration (breakpoints, columns and padding)
+- Exports as png and scss
+- Photoshop 5+
+- [Website](http://gridpak.com)
 
 Layouts
 -------
@@ -33,6 +33,12 @@ Layouts
 - UI builder
 - Photoshop 6+
 - [Website](http://webzap.uiparade.com)
+
+### Velositey
+- Layout builder
+- Guides nice features
+- Favicon generator
+- [Website](http://dandkagency.com/velositey)
 
 Cuting
 ------
@@ -46,30 +52,24 @@ Cuting
 Exports
 -------
 
-##SVG export
+### SVG export
 - Exports shapes and group of shapes to SVGs
 - Photoshop CC+
 - [Website](https://creativemarket.com/Renamy/16717-Zeick-Photoshop-SVG-export-2.2.0?utm_source=cmembed&utm_medium=link&utm_campaign=16717)
 
-##Interface Tools
-- Panel with web design tools shortcuts
-- Photoshop 6+
-
-[![Interface tool](http://haveidols.com/grabs/Screen%20Shot%202014-08-28%20at%2018.23.11.png)](https://dribbble.com/shots/1160621-Interface-Tools-Photoshop-Plugin)
-
-##Perspective mockup
+### Perspective mockup
 - Exports mockup in perspective
 - Photoshop 6+
+- [Website](http://perspectivemockups.com)
 
-[![Perspective mokups](http://haveidols.com/grabs/Screen%20Shot%202014-08-28%20at%2018.27.10.png)](http://perspectivemockups.com)
+Miscs
+-----
 
-##Velositey
-- Layout builder
-- Guides nice features
-- Favicon generator
+### Interface Tools
+- Panel with web design tools shortcuts
+- Photoshop 6+
+- [Website](https://dribbble.com/shots/1160621-Interface-Tools-Photoshop-Plugin)
 
-[![Velositey](http://haveidols.com/grabs/Screen%20Shot%202014-08-28%20at%2018.09.39.png)](http://dandkagency.com/velositey)
-
-##Bonus : keyboard shortcuts optimisation
-
-[![keyboard shortcuts optimisation](http://haveidols.com/grabs/Screen%20Shot%202014-08-28%20at%2018.11.32.png)](http://www.dtelepathy.com/blog/design/dream-photoshop-keyboard-shortcuts)
+Docs
+----
+- [Dream keyboard shorcuts](http://www.dtelepathy.com/blog/design/dream-photoshop-keyboard-shortcuts)
