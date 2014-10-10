@@ -1,41 +1,55 @@
-# photoshopTools
+photoshopTools
+==============
 
-## Motivations
+Motivations
+-----------
 List of more or less usefull tests for Photoshop.
 
 Web and app oriented.
 
-## Grids
+Grids
+-----
 
-- Gridpak : 
-    - Guides generator
-    - Easy configuration (breakpoints, columns and padding)
-    - Exports as png and scss
-    - Photoshop 5+
-    - [http://gridpak.com](http://gridpak.com)
+### Gridpak : 
+- Guides generator
+- Easy configuration (breakpoints, columns and padding)
+- Exports as png and scss
+- Photoshop 5+
+- [Website](http://gridpak.com)
 
-[![Gridpak](http://haveidols.com/grabs/Screen%20Shot%202014-08-28%20at%2018.10.34.png)](http://gridpak.com)
+### Guideguide : 
+- Guides generator
+- Easy configuration (breakpoints, columns and padding)
+- Exports as png and scss
+- Photoshop 5+
+- [Website](http://guideguide.me/)
+
+Layouts
+-------
 
 ### Web Zap
 - Layout builder
 - Text layout builder (multiple font swap)
 - UI builder
 - Photoshop 6+
+- [Website](http://webzap.uiparade.com)
 
-[![Web Zap](http://haveidols.com/grabs/Screen%20Shot%202014-08-28%20at%2018.24.13.png)](http://webzap.uiparade.com)
+Cuting
+------
 
 ### Cut and Slice Me
 - Exports groups and layers automaticaly (trimed transparent pngs)
 - Clever method : add "@" at the end of the name of group you want exported
 - Photoshop 6+
+- [Website](http://www.cutandslice.me)
 
-[![Cut & Slice me](http://haveidols.com/grabs/Screen%20Shot%202014-08-28%20at%2018.28.23.png)](http://www.cutandslice.me)
+Exports
+-------
 
 ##SVG export
 - Exports shapes and group of shapes to SVGs
 - Photoshop CC+
-
-[![SVG export](http://haveidols.com/grabs/Screen%20Shot%202014-08-28%20at%2018.22.53.png)](https://creativemarket.com/Renamy/16717-Zeick-Photoshop-SVG-export-2.2.0?utm_source=cmembed&utm_medium=link&utm_campaign=16717)
+- [Website](https://creativemarket.com/Renamy/16717-Zeick-Photoshop-SVG-export-2.2.0?utm_source=cmembed&utm_medium=link&utm_campaign=16717)
 
 ##Interface Tools
 - Panel with web design tools shortcuts
