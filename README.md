@@ -7,9 +7,10 @@ List of more or less usefull tests for Photoshop.
 
 Web and app oriented.
 
-Grids
------
+Grids and guides
+----------------
 - [Guideguide](http://guideguide.me) : Guides generator, loads of configuration (breakpoints, columns, padding, gutters), exports as png and scss, Photoshop 5+
+- [Spectrr](http://www.specctr.com) : Annotation tool (text, spacing, sizes), Photoshop 6+
 - [Gridpak](http://gridpak.com) : Guides (as image) generator, easy configuration (breakpoints, columns and padding), exports as png and scss, Photoshop 5+
 
 Cuting
