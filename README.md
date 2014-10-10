@@ -10,12 +10,7 @@ Web and app oriented.
 Grids
 -----
 
-### Guideguide
-- Guides generator
-- Easy configuration (breakpoints, columns and padding)
-- Exports as png and scss
-- Photoshop 5+
-- [Website](http://guideguide.me/)
+- [Guideguide](http://guideguide.me) : Guides generator, easy configuration (breakpoints, columns and padding), exports as png and scss, Photoshop 5+
 
 ### Gridpak
 - Guides generator
