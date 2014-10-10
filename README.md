@@ -18,6 +18,8 @@ Cuting
 
 Prototyping
 -----------
+- [Invision](http://www.invisionapp.com) : very easy, cloud, Photoshop auto slicing and sycing, comments
+- [FramerJS](http://framerjs.com) : convenient framework (animation helpers, states machine, coffee or js), Photoshop auto cutting
 
 Layouts
 -------
