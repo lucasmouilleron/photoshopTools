@@ -18,8 +18,9 @@ Cuting
 
 Prototyping
 -----------
-- [Invision](http://www.invisionapp.com) : very easy, cloud, Photoshop auto slicing and sycing, comments
-- [FramerJS](http://framerjs.com) : convenient framework (animation helpers, states machine, coffee or js), Photoshop auto cutting
+- [Invision](http://www.invisionapp.com) : Very easy, cloud, Photoshop auto slicing and sycing, comments
+- [FramerJS](http://framerjs.com) : Convenient framework (animation helpers, states machine, coffee or js), Photoshop auto cutting
+- [Reflow](https://creative.adobe.com/products/reflow) : Adobe tool, connects to Photoshop, simple prototyping features (multiple page), responsive aware, review in browser, Photoshop CC+
 
 Layouts
 -------
