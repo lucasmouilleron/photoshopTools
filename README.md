@@ -2,15 +2,17 @@
 
 ## Motivations
 List of more or less usefull tests for Photoshop.
+
 Web and app oriented.
 
 ## Grids
 
-### Gridpak
-- Guides generator
-- Easy configuration (breakpoints, columns and padding)
-- Exports as png and scss
-- Photoshop 5+
+- Gridpak : 
+    - Guides generator
+    - Easy configuration (breakpoints, columns and padding)
+    - Exports as png and scss
+    - Photoshop 5+
+    - [http://gridpak.com](http://gridpak.com)
 
 [![Gridpak](http://haveidols.com/grabs/Screen%20Shot%202014-08-28%20at%2018.10.34.png)](http://gridpak.com)
 
